@@ -13,6 +13,11 @@
 % As a rule of thumb, planeThreshold can be a value around 0.9, and
 % triangleThreshold something about 11.
 % The output is a 3D matrix with a pixel spacing as indicated by the user.
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
 
 function [Volume, origin] = stl2matrix(stl_file, FillValue, PixelSpacing, planeThreshold,triangleThreshold)
 
