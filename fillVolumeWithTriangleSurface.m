@@ -14,6 +14,12 @@
 % For more information about this threshold, please open the functions:
 % - pointBelongsToPlane.m
 % - pointLiesInsideTriangle.m
+%
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
 
 function volume =  fillVolumeWithTriangleSurface(volume, Point1, Point2, Point3, fillValue,planeThreshold,triangleThreshold)
 
