@@ -1,5 +1,7 @@
+% **************************************************************************
 % This is a debugging script for the function stl2matrix.m
 % for more information refere to such file.
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
 % Date: 	    AUG-2019 
