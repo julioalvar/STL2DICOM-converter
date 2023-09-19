@@ -1,5 +1,5 @@
 % **************************************************************************
-% call the function with the folder path you want to delete
+% Call the function with the folder path you want to delete
 %
 % ***************************************************************************
 % Created by:   Julio Alvarez
