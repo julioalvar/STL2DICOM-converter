@@ -1,3 +1,4 @@
+% **************************************************************************
 % This function receives a 3D volume (3D matrix) as input.
 % Additionally, the explanation about the number of mm between pixel 
 % must be sent in pixel_spacing.
@@ -6,9 +7,10 @@
 % The output images will have a name and a sequence number, which starts in
 % zero. The prefix can be stated in dicom_prefix, and the path where the
 % images will be saved can be inserted in dicom_output_path.
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
-% Date: 	    AUG-2019 
+% Date:         AUG-2019 
 % Contact:      julioalvar@gmail.com
 % ***************************************************************************
 
