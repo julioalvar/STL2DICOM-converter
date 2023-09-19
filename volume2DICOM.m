@@ -6,6 +6,11 @@
 % The output images will have a name and a sequence number, which starts in
 % zero. The prefix can be stated in dicom_prefix, and the path where the
 % images will be saved can be inserted in dicom_output_path.
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
 
 function volume2DICOM(volume, origin, pixel_spacing, dicom_example_name, dicom_prefix, dicom_output_path)
 
