@@ -1,5 +1,10 @@
 % This function find the volume delimiited by three points.
 % It is done finding the minimum and maximum values of each axis.
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
 
 function [xmin,xmax,ymin,ymax,zmin,zmax] = findSubVolume(Point1, Point2, Point3)
 
