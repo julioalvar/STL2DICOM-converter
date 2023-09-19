@@ -3,6 +3,12 @@
 % with the point using the plane values a,b,c must be zero. In discrete
 % space we must allowed a difference threshold. A good threshold could be
 % some value around 0.9.
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
+
 function yesOrNo = pointBelongsToPlane(a,b,c,d,Point,differenceThreshold)
 
 actual_d = [a b c ] * Point';
