@@ -1,10 +1,12 @@
+% **************************************************************************
 % A Point is inside a triangle, if the area of the triangles (3 all in all) 
 % formed by the testing point combined with the other points, It is the
 % same as the original triangle area.
 % A good value for the difference Threshold is around 11
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
-% Date: 	    AUG-2019 
+% Date:         AUG-2019 
 % Contact:      julioalvar@gmail.com
 % ***************************************************************************
 
