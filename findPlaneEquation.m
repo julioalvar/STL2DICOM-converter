@@ -1,8 +1,10 @@
+% **************************************************************************
 %This function receives three points as input and returns the plane
 % normalized coefficients a,b,c,d.
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
-% Date: 	    AUG-2019 
+% Date: 	      AUG-2019 
 % Contact:      julioalvar@gmail.com
 % ***************************************************************************
 
