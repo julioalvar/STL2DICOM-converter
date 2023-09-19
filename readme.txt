@@ -1,4 +1,5 @@
-copy stl file into this folder
-execute stl2dicom_script.m
-change the STL_file 
+copy desired stl file to be converted into the solution folder
+open stl2dicom_script.m
+add the stl name to the variable STL_file (line 32 - stl2dicom_script.m) 
 execute
+the result is located in the folder "output"
