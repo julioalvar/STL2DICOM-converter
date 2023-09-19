@@ -1,3 +1,4 @@
+% **************************************************************************
 % This function fills the DICOM volume corresponding to the triangle
 % delimited for the points Point1, Point2, Point3. The filling is used
 % defined by fill value.
