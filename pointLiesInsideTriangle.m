@@ -2,6 +2,12 @@
 % formed by the testing point combined with the other points, It is the
 % same as the original triangle area.
 % A good value for the difference Threshold is around 11
+% ***************************************************************************
+% Created by:   Julio Alvarez
+% Date: 	    AUG-2019 
+% Contact:      julioalvar@gmail.com
+% ***************************************************************************
+
 function yesOrNo = pointLiesInsideTriangle(Point1, Point2, Point3, PTest, differenceThreshold)
 
 area_main_triangle = areaTriangle(Point1, Point2, Point3);
