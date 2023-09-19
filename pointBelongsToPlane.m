@@ -1,11 +1,13 @@
+% **************************************************************************
 % This function determines if a point belongs to a plane with coefficients
 % a,b,c,d. In continous space, the difference of the calculated coeffient d
 % with the point using the plane values a,b,c must be zero. In discrete
 % space we must allowed a difference threshold. A good threshold could be
 % some value around 0.9.
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
-% Date: 	    AUG-2019 
+% Date:         AUG-2019 
 % Contact:      julioalvar@gmail.com
 % ***************************************************************************
 
