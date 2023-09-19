@@ -1,3 +1,4 @@
+% **************************************************************************
 % This script has as input an STL file name (path), which contain an STL file
 % with coordinates in mm. Additionally, there is a FillValue field that
 % indicates the voxel value in the DICOM, where the volume (element) exists.
@@ -13,6 +14,7 @@
 % As a rule of thumb, planeThreshold can be a value around 0.9, and
 % triangleThreshold something about 11.
 % The output is a 3D matrix with a pixel spacing as indicated by the user.
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
 % Date: 	    AUG-2019 
