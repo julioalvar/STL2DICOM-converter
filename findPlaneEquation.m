@@ -1,5 +1,5 @@
 % **************************************************************************
-%This function receives three points as input and returns the plane
+% This function receives three points as input and returns the plane
 % normalized coefficients a,b,c,d.
 %
 % ***************************************************************************
