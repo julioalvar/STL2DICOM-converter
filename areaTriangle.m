@@ -1,4 +1,6 @@
+% **************************************************************************
 % This function returns the Area of the triangle delimited by three points
+%
 % ***************************************************************************
 % Created by:   Julio Alvarez
 % Date: 	      AUG-2019 
